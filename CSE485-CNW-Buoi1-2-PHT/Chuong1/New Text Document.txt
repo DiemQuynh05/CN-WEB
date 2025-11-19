@@ -1,0 +1,6 @@
+1. Request URL: https://tlu.edu.vn/wp-content/plugins/foxtool/link/instantpage.js
+2. Request Method: GET
+3. Status Code: 200 OK (from disk cache)
+
+
+Câu hỏi của tôi là: Khi mở một trang web, vì sao tab Network thường hiển thị thời gian tải (Load time) khác nhau giữa từng loại tài nguyên — ví dụ CSS tải nhanh nhưng hình ảnh .jpg tải chậm hơn — mặc dù tất cả đều được tải từ cùng một máy chủ?

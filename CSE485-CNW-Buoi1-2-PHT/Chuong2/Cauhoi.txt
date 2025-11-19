@@ -1,0 +1,1 @@
+PHP là ngôn ngữ thông dịch và hỗ trợ lập trình hướng đối tượng. Vậy tại sao trong PHP, các đối tượng có thể được tạo và hủy linh hoạt trong quá trình chạy chương trình, trong khi ở Java (ngôn ngữ biên dịch) quá trình quản lý bộ nhớ và kiểu dữ liệu lại nghiêm ngặt hơn? Điều này ảnh hưởng như thế nào đến cách lập trình OOP trong PHP so với Java?
