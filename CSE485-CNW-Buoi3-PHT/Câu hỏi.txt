@@ -1,0 +1,1 @@
+Câu hỏi của tôi là: Vì sao Session ID (PHPSESSID) được lưu trong Cookie nhưng Session vẫn được xem là “an toàn hơn Cookie”?
